@@ -1,0 +1,14 @@
+Process to add files into repository 
+---------------------------------------
+Go to the folder 
+git Bash
+git init
+git add (file name or .[to add all together])
+add status [To check status]
+git commit -m "Comment"
+[COPY THE URL FROM REPOSITORY]
+git remote add origin(Any name) PASTE THE URL
+git push origin master [Main or master depends on system]
+--------------------------------------------------
+git log [to view all the commit with time and a uniqe hash code will be generated
+git log --oneline [Print in one line]
