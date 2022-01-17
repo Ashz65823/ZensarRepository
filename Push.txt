@@ -12,3 +12,4 @@ git push origin master [Main or master depends on system]
 --------------------------------------------------
 git log [to view all the commit with time and a uniqe hash code will be generated
 git log --oneline [Print in one line]
+---------------------------------------------------------
